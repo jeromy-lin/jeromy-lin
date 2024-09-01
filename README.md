@@ -6,6 +6,8 @@ in TECO Electric and Machinery Company Ltd. He is currently an
 Assistant Professor with the National Yunlin University of Science and
 Technology (NYUST), Yunlin, Taiwan.His research interests include AGV control and service robot.
 
+Newly Updated 2024/09/01
+
 <!---
 jeromy-lin/jeromy-lin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
